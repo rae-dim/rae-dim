@@ -19,7 +19,7 @@
 <h2 align="center">📊My GitHub Stats</h2>
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rae-dim&show_icons=true&theme=dark" />&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rae-dim&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rae-dim&theme=dark&layout=compact&exclude_lang=java+r" />
