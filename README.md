@@ -3,6 +3,16 @@
 <p align="center">  I am an aspiring Software developer currently studying through CodeSpace Academy. My introduction to coding was rooted in data science and machine learning, but im slowly but surely falling in love with front-end software development. My goals are to further cement my knowledge of back end development, gain experience and knowledge in front end development and work towards bcoming a fullstack developer. 
 </p>
 </br>
+
+<h2 align="center">⚒️Current Projects</h2>
+<br>
+<p align="center" >
+  
+- [Portfolio](https://disegoport56.netlify.app/)&nbsp;
+- [Cache Bank Lanidng Page](https://cachelandingdim.netlify.app/)
+</p>
+</br>
+
 <h2 align="center">💻Tech Stack:</h2>&nbsp;
 <br>
 <p align="center">
